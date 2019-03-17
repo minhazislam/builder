@@ -1,0 +1,40 @@
+@media only screen and (max-width: 600px) {
+    .flex-header {
+        flex-direction: column;
+        
+    }
+    .single-lavel-menu ul{
+        flex-direction: column;
+    }
+    .single-lavel-menu ul li{
+        margin: 5px 0;
+    } 
+    .header-item{
+     margin: 10px 0;
+    }
+    .slider-section{
+        padding: 150px 20px;
+    }
+    .button-1{
+        flex-direction: column;
+    }
+    .flex-slider{
+        flex-direction: column;
+    }
+    .flex-slider-left{
+    width: 100%;
+
+}
+    .over-slider{
+        flex-direction: column;
+    }
+    .oure_mission{
+        flex-direction: column;
+    }
+    
+}
+@media only screen and (max-width: 780px) {
+    .over-section{
+        
+    }
+}
